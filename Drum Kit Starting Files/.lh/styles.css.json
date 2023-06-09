@@ -1,0 +1,30 @@
+{
+    "sourceFile": "styles.css",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 3,
+            "patches": [
+                {
+                    "date": 1686236546876,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1686236553535,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -16,9 +16,9 @@\n   font-family: sans-serif;\n }\n \n .w {\n-  \n+  background\n }\n \n .a {\n \n"
+                },
+                {
+                    "date": 1686236559700,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -16,9 +16,9 @@\n   font-family: sans-serif;\n }\n \n .w {\n-  background\n+  background-image: ;\n }\n \n .a {\n \n"
+                },
+                {
+                    "date": 1686236565380,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -16,9 +16,9 @@\n   font-family: sans-serif;\n }\n \n .w {\n-  background-image: url();\n+  background-image: url(\"\");\n }\n \n .a {\n \n"
+                }
+            ],
+            "date": 1686236546876,
+            "name": "Commit-0",
+            "content": "body {\n  text-align: center;\n  background-color: #283149;\n}\n\nh1 {\n  font-size: 5rem;\n  color: #DBEDF3;\n  font-family: \"Arvo\", cursive;\n  text-shadow: 3px 0 #DA0463;\n\n}\n\nfooter {\n  color: #DBEDF3;\n  font-family: sans-serif;\n}\n\n.w {\n  \n}\n\n.a {\n\n}\n\n.s {\n\n}\n\n.d {\n\n}\n\n.j {\n\n}\n\n.k {\n\n}\n\n.l {\n\n}\n\n.set {\n  margin: 10% auto;\n}\n\n.game-over {\n  background-color: red;\n  opacity: 0.8;\n}\n\n.pressed {\n  box-shadow: 0 3px 4px 0 #DBEDF3;\n  opacity: 0.5;\n}\n\n.red {\n  color: red;\n}\n\n.drum {\n  outline: none;\n  border: 10px solid #404B69;\n  font-size: 5rem;\n  font-family: 'Arvo', cursive;\n  line-height: 2;\n  font-weight: 900;\n  color: #DA0463;\n  text-shadow: 3px 0 #DBEDF3;\n  border-radius: 15px;\n  display: inline-block;\n  width: 150px;\n  height: 150px;\n  text-align: center;\n  margin: 10px;\n  background-color: white;\n}\n"
+        }
+    ]
+}
